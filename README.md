@@ -1,6 +1,13 @@
 # capture-windows-screen-skill
 
+An OpenClaw skill for capturing the **Windows host desktop from WSL2**.
+
 中文 | [English](#english)
+
+## 快速下载 / Quick Download
+
+- Source repo: <https://github.com/Hansheng-Li/capture-windows-screen-skill>
+- Packaged `.skill`: <https://github.com/Hansheng-Li/capture-windows-screen-skill/releases/download/v0.1.0/capture-windows-screen.skill>
 
 ## 中文
 
